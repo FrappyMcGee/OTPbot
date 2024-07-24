@@ -8,4 +8,3 @@ for view in views:
     print(f'$ {view} was imported successfully!!')
 
 print(':::::::::::::::::::::: Bot Deployed ::::::::::::::::::::::')
-print(':::::::::::: Do join @j_projects at Telegram. ::::::::::::')
